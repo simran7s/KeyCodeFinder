@@ -1,2 +1,2 @@
 # KeyCodeFinder
-Click here to view: https://github.com/simran7s/KeyCodeFinder/settings/pages
+Click here to view: https://simran7s.github.io/KeyCodeFinder/
