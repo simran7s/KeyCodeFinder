@@ -11,7 +11,7 @@ window.addEventListener("keydown", (e) => {
 
     container.classList.add("active");
 
-    key.innerHTML = e.code;
+    key.innerHTML = e.key;
     keyCode.innerHTML = e.keyCode;
     code.innerHTML = e.code;
 })
